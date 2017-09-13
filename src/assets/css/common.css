@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue","Luxi Sans","DejaVu Sans",Tahoma,"Hiragino Sans GB",STHeiti,sans-serif!important;
+  line-height: 20px;
+  color: #333;
+  background: #e1e1e1;
+  font-size: 14px;
+}
+ul,li{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
